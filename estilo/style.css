@@ -61,7 +61,7 @@ header > p {
     font-size: 1.2em;
     max-width: 600px; /*QUANDO COLOCA LARGURA MÁXIMA, VIRA UM BLOCO, E VAI QUEBRAR*/
     margin: auto; /*NECESSÁRIO COLOGAR MARGIN AUTO PARA CENTRALIZAR E NÃO QUEBRAR*/
-    padding: 0 10px 0 10px; /*Espaço do lado DIREITO e ESQUERDO*/
+    padding-bottom: 20px; /*Espaço do lado DIREITO e ESQUERDO*/
 }
 
 nav {
